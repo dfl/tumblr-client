@@ -1,6 +1,6 @@
 = tumblr-client
 
-Description goes here.
+A simple client for the tumblr API
 
 == Contributing to tumblr-client
  
